@@ -11,5 +11,12 @@
 <p>Get a api key from https://openweathermap.org/ </p>
 <br>
 <br>
-![Screenshot (378)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/76b9c67a-6e71-4ed8-9c24-baf5be3c56df)
-![Screenshot (379)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/42b7a98b-3e70-4a7b-9787-eef207fc8550)
+
+![Screenshot (381)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/35deb137-6fc6-43f4-b952-9973312f1bd3)
+<br>
+![Screenshot (380)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/46a434e8-6bac-44d5-af4b-258707d1228c)
+<br>
+![Screenshot (379)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/306ed4a3-2b33-431e-b589-9b73e7068ba8)
+<br>
+![Screenshot (378)](https://github.com/ManulaAlahakoon/React-Weather-App/assets/128172249/b2ef3395-7e7b-480f-8a16-b5d7dd62beee)
+<br>
