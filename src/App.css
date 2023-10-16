@@ -1,0 +1,18 @@
+
+body {
+    background-color: black;
+    color:white;
+}
+
+input {
+    font-size: 30px;
+}
+
+button {
+    font-size: 30px;
+}
+
+.weatherData {
+    display:flex;
+    gap:20px;
+}
